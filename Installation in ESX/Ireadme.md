@@ -68,7 +68,3 @@
 ###### 增加一块硬盘
 ![image](https://user-images.githubusercontent.com/96930989/219866274-b5eee73d-0c1b-40c1-b982-b43a24dded1a.png)
 
-#### 本教程参考视频 [ESXi虚拟机安装IStoreOS](https://www.bilibili.com/video/BV18U4y1D74r/?spm_id_from=333.337.search-card.all.click&vd_source=1a4ea93e7ce2e9d7a3a55c213b1fee7a)
-
-
-
