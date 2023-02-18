@@ -65,6 +65,6 @@
 ##### 设置完成后，在同一网段中输入刚才设定的IP应可登录iStoreOS界面，此时可将该VM关机，添加另一块硬盘或扩展现有硬盘
 ###### 扩展当前硬盘
 ![image](https://user-images.githubusercontent.com/96930989/219866325-ed3b8d73-4ae4-4e27-bb28-f2bb049a3b56.png)
-###### 增加一块硬盘
+###### 或者增加一块硬盘
 ![image](https://user-images.githubusercontent.com/96930989/219866274-b5eee73d-0c1b-40c1-b982-b43a24dded1a.png)
 
