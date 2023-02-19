@@ -9,7 +9,7 @@
 #### 3. 下载并安装[starwind](https://www.starwindsoftware.com/starwind-v2v-converter)
 
 #### 4. 使用starwind进行镜像转换
-##### 选择local file（本机）
+##### 初始镜像文件选择local file（本机）
 ![image](https://user-images.githubusercontent.com/96930989/219864428-07fdb314-4289-4a08-afbb-d887968acbb4.png)
 
 ##### 选择解压缩得到的带efi的img文件`istoreos-21.02.3-2023020316-x86-64-squashfs-combined-efi.img`
