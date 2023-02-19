@@ -1,4 +1,4 @@
-## 在ESXI中安装iStoreOS
+## 在ESXI7/8中安装iStoreOS
 ### 安装步骤（以X86为例)
 #### 1. 下载iStoreOS最新固件(带efi) [iStoreOS固件下载](https://fw.koolcenter.com/iStoreOS/)
 ![image](https://user-images.githubusercontent.com/96930989/219864379-cf8b5cf9-b405-42bb-a3e7-327572315556.png)
