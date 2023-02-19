@@ -67,5 +67,5 @@
 ![image](https://user-images.githubusercontent.com/96930989/219866325-ed3b8d73-4ae4-4e27-bb28-f2bb049a3b56.png)
 ###### 或者增加一块硬盘
 ![image](https://user-images.githubusercontent.com/96930989/219866274-b5eee73d-0c1b-40c1-b982-b43a24dded1a.png)
-###### 进入iStoreOS界面后格式化并分配新分区
+##### 进入iStoreOS界面后格式化并分配新分区
 ![image](https://user-images.githubusercontent.com/96930989/219907746-ea443c5d-82b5-4b62-a4f8-ae05eecf91b0.png)
