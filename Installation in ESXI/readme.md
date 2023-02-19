@@ -8,7 +8,7 @@
 
 #### 3. 下载并安装[starwind](https://www.starwindsoftware.com/starwind-v2v-converter)
 
-#### 4. 开始镜像转换
+#### 4. 使用starwind进行镜像转换
 ##### 选择local file（本机）
 ![image](https://user-images.githubusercontent.com/96930989/219864428-07fdb314-4289-4a08-afbb-d887968acbb4.png)
 
