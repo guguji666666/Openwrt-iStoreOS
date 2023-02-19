@@ -3,7 +3,7 @@
 #### 1. 下载iStoreOS最新固件(带efi) [iStoreOS固件下载](https://fw.koolcenter.com/iStoreOS/)
 ![image](https://user-images.githubusercontent.com/96930989/219864379-cf8b5cf9-b405-42bb-a3e7-327572315556.png)
 
-#### 2. 解压缩
+#### 2. 解压缩至本地路径
 ![image](https://user-images.githubusercontent.com/96930989/219864404-87b34db2-0013-4ca1-b2a9-378969a2ea1f.png)
 
 #### 3. 下载并安装[starwind](https://www.starwindsoftware.com/starwind-v2v-converter)
