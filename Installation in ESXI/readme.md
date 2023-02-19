@@ -12,7 +12,7 @@
 ##### 初始镜像文件选择local file（本机）
 ![image](https://user-images.githubusercontent.com/96930989/219864428-07fdb314-4289-4a08-afbb-d887968acbb4.png)
 
-##### 选择解压缩得到的带efi的img文件`istoreos-21.02.3-2023020316-x86-64-squashfs-combined-efi.img`
+##### 选择刚才解压缩得到的带efi的img文件
 ![image](https://user-images.githubusercontent.com/96930989/219870281-bc6989d8-86ba-4e6c-a9f2-080a79664fe0.png)
 
 ##### 选择转化后镜像的存储位置，这里也选择local file（本机）
